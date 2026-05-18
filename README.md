@@ -83,7 +83,7 @@ Built using the MERN Stack:
 ## 1. Clone Repository
 
 ```bash
-git clone 
+git clone https://github.com/aitezazdev/AI-Medicore.git
 cd Hospital-Management-System
 ```
 
@@ -113,12 +113,6 @@ FRONTEND_URL=http://localhost:5173
 ```
 
 ## Run backend server
-
-```bash
-npm start
-```
-
-or
 
 ```bash
 npm run dev
@@ -180,7 +174,6 @@ http://localhost:5173
 ## Backend
 
 ```bash
-npm start
 npm run dev
 ```
 
@@ -188,19 +181,6 @@ npm run dev
 
 ```bash
 npm run dev
-npm run build
 ```
 
 ---
-
-# Future Improvements
-
-* Video Consultation
-* Online Payments
-* Email Notifications
-* Prescription System
-* Medical Reports Upload
-* Chat System
-
----
-This project is licensed under the MIT License.

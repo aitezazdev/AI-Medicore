@@ -1,1 +1,1 @@
-# AI-Medicore
+# Hospital-Mangment-System
